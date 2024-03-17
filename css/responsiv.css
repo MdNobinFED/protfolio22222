@@ -1,0 +1,402 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 767px) {
+    .for-hi h1 {
+        display: none !important;
+    }
+    .nav-logo span {
+        font-size: 12px !important;
+    }
+    .benner-right img {
+        margin-left:auto!important;
+        width: 100%;
+
+    }
+    .navbar-toggler-icon {
+        color: white !important;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+        font-size: 2rem;
+    }
+    .navbar-toggler {
+        border:0;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow:none; 
+    }
+    .benner-left h1 {
+        color: #ffffff;
+        font-size: 30px !important;
+        font-weight: 700;
+    }
+    .benner-right{
+        width:65% !important;
+        margin: 0 auto !important;
+    }
+    body{
+        overflow-x: hidden !important;
+    }
+    #benner {
+        padding: 98px 0px 0px 0px !important;
+    }
+    .menu-bg2 {
+        align-items: center;
+        background: black;
+    }
+    .menu-bg {
+        padding-top:0px !important;
+    }
+    .hire-me1 {
+        font-size: 12px !important;
+        padding: 13px 15px !important;
+    }
+    .for-btin-icon a i {
+        padding: 2px 5px !important;
+        font-size: 21px !important;
+    }
+    @media (max-width: 576px){
+        .for-btin-icon a i{
+            margin-left:2px !important;
+        }
+        .nav-logo img {
+            width: 60px !important;
+        }
+        .b-bottom2-1 h2 {
+            font-size: 16px !important;
+            margin-left: 30px;
+        }
+        .blogs-item-bottom a {
+            font-size: 11px !important;
+        }
+        .b-bottom2-2 p {
+            font-size: 8px !important;
+        }
+        .slider-left img {
+            width: 50px !important;
+        }
+        .blogs-item-bottom h3{
+            font-size: 16px !important;
+        }
+        .nav-logo span {
+            font-size: 12px !important;
+            margin-left: -15px !important;
+        }
+        .btton-design {
+            width: 90% !important;
+        }
+    }
+    .b-bottom2-1 h2 {
+        font-size: 20px !important;
+        margin-left: 30px;
+
+    }
+    .benner-btom-main {
+        padding: 44px 0px 59px 0px !important;
+    }
+    .col-6 {
+        margin-bottom: 23px;
+    }
+    .benner-left h3 {
+        font-size: 21px !important;
+
+    }
+    .benner-left h1 {
+        padding: 0px 0px !important;
+        letter-spacing: 0px !important;
+
+    }
+    .serv-btm-1 h3 {
+        font-size: 22px !important;
+        text-transform: capitalize;
+        margin: 7px 0px !important;
+        padding-left: 0px !important;
+    }
+    .benner-left p {
+        font-size: 16px !important;
+        padding-right: 0px !important;
+        letter-spacing: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    .serv-btm-2 p {
+        font-size: 13px !important;
+    }
+    #Service {
+        padding: 42px 0px !important;
+    }
+    .service-top h2, .works-top h2, .skills-top h2, .Recent-Blogs-top h2 {
+        font-size: 30px !important;
+    }
+    .service-top p, .works-top p, .skills-top p, .Recent-Blogs-top p {
+        font-size: 14px !important;
+    }
+    #Works {
+        padding: 42px 0px !important;
+    }
+    .nav-link {
+        font-size: 12px !important;
+    }
+    .overly-text a {
+        font-size: 16px !important;
+    }
+    .overly-text p {
+        font-size: 12px !important;
+        margin-bottom: 0px !important;
+    }
+    #Resume {
+        padding: 22px 0px !important;
+    }
+    .resume-top h2, .testimonils-left h2, .contact-left-top h2 {
+        font-size: 30px !important;
+        padding-bottom: 5px !important;
+
+    }
+    .bgtransparent .card-subtitle {
+        font-size: 16px !important;
+        margin-bottom: 0px !important;
+    }
+    .bgtransparent .card-title {
+        font-size: 14px !important;
+        margin-bottom: 5px !important;
+    }
+    .bgtransparent .card-text {
+        font-size: 16px !important;
+    }
+    #Skills {
+        padding: 31px 0px !important;
+    }
+    .testimonils-left p, .contact-left-top p {
+        font-size: 16px !important;
+        margin-bottom: 21px !important;
+    }
+    #Testimonials {
+        padding: 30px 0px !important;
+    }
+    .slider-text p {
+        font-size: 11px !important;
+        margin-bottom: 10px !important;
+    }
+    .slider-fotter h3 {
+        font-size: 16px !important;
+    }
+    .slider-fotter p {
+        font-size: 11px !important;
+        margin-bottom: 0 !important;
+    }
+    #Recent-Blogs {
+        padding: 30px 0px !important;
+    }
+    #Contact {
+        background-color: #050709;
+        padding: 30px 0px !important;
+    }
+    .contact-right {
+        margin: 10px 0px 40px !important;
+    }
+    .fotter-menu a {
+        font-size:14px !important;
+        margin: 8px 1px !important;
+    }
+    .nap-tep-text {
+        color: #ffffff;
+        padding: 15px 15px !important;
+    }
+    .overly-text {
+        padding: 15px 15px 30px 15px;
+    }
+    .overly-text a {
+        margin-bottom: 0px !important;
+    }
+    .overly-icon i {
+        display: none !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 576px)and (max-width: 767px) { 
+    .nav-logo img {
+        width: 90px !important;
+    }
+    .btton-design {
+        width: 60% !important;
+    }
+    .for-btin-icon a i {
+        margin-left: 11px !important;
+        padding: 2px 5px !important;
+        font-size: 21px !important;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 768px)and (max-width: 991px) { 
+    .navbar-toggler-icon {
+        color: white !important;
+    }
+    #Service{
+        padding: 30px 0px !important;
+    }
+    #Works, #Resume, #Skills ,#Testimonials,#Recent-Blogs,#Contact{
+        padding: 30px 0px !important;
+    }
+    #benner {
+        padding: 200px 0px 0px 0px !important;
+    }
+    .b-bottom2-1 h2 {
+        font-size: 40px !important;
+    }
+    .b-bottom2-1 h2 {
+        padding-right: 5px !important;
+    }
+    .service-top h2, .works-top h2, .skills-top h2, .Recent-Blogs-top h2 {
+        font-size: 35px !important;
+    }
+    .service-top p, .works-top p, .skills-top p, .Recent-Blogs-top p {
+        font-size: 14px !important;
+        margin-bottom:30px !important;
+    }
+    .bgtransparent .card-subtitle {
+        font-size: 15px !important;
+    }
+    .bgtransparent .card-title {
+        font-size: 12px !important;
+    }
+    .bgtransparent .card-text {
+        font-size: 14px !important;
+    }
+    .b-bottom2-2 p {
+        font-size: 14px !important;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+        font-size: 2.5rem;
+    }
+    .navbar-toggler {
+        border:0;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow:none; 
+    }
+    .for-hi h1 {
+        display: none !important;
+    }
+    .benner-left h1 {
+        color: #ffffff;
+        font-size: 30px !important;
+        font-weight: 700;
+    }
+    .hire-me1 {
+        margin-right: 80px;
+        margin-bottom: 20px;
+    }
+    .for-btin-icon a i {
+        margin-left: 5px !important;
+
+    }
+    .benner-left p {
+        font-size:16px !important;
+        font-weight:0 !important;
+        padding-right:0 !important;
+        letter-spacing:0 !important;
+        padding-bottom: 0 !important;
+    }
+    .benner-btom-main {
+        padding: 32px 0px 59px 0px !important;
+    }
+    .btton-design {
+        width: 65% !important;
+
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 992px)and (max-width: 1199px) { 
+    .for-hi h1 {
+        left: 340px !important;
+    }
+    .bgtransparent .card-subtitle {
+        font-size: 20px !important;
+    }
+    .service-top h2, .works-top h2, .skills-top h2, .Recent-Blogs-top h2 {
+        font-size: 35px !important;
+    }
+    .service-top p, .works-top p, .skills-top p, .Recent-Blogs-top p {
+        font-size: 14px !important;
+        margin-bottom:30px !important;
+    }
+    .resume-top h2, .testimonils-left h2, .contact-left-top h2 {
+        font-size: 40px !important;
+    }
+    .slider-text p {
+        font-size: 13px !important;
+        margin-bottom: 15px !important;
+    }
+    .justify-content-between {
+        justify-content:space-around !important;
+    }
+    #Testimonials {
+        padding: 30px 0px !important;
+    }
+    .slider-fotter p {
+        font-size: 13px !important;
+    }
+    .nav-logo span {
+        display: none;
+    }
+    .btton-design {
+        width: 50% !important;
+    }
+    .benner-left h1 {
+        font-size: 54px !important;
+        padding: 0px 0px !important;
+        letter-spacing: 1px !important;
+    }
+    .b-bottom2-1 h2 {
+        font-size: 35px !important;
+        padding-right: 10px !important;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1200px)and (max-width: 1399px) { 
+    .nav-logo span {
+        display: none;
+    }
+    .for-hi h1 {
+        left: 500px !important;
+
+    }
+    .service-top h2, .works-top h2, .skills-top h2, .Recent-Blogs-top h2 {
+        font-size: 35px !important;
+    }
+    .btton-design {
+        width: 40% !important;
+    }
+    .service-top p, .works-top p, .skills-top p, .Recent-Blogs-top p {
+        font-size: 14px !important;
+    }
+    .b-bottom2-1 h2 {
+        font-size: 40px !important;
+        padding-right: 10px !important;
+    }
+    .b-bottom2-2 p {
+        font-size: 12px !important;
+    }
+    .overly-text a {
+        font-size: 20px  !important;
+        margin-bottom: 0px !important;
+    }
+    .overly-text p {
+        font-size: 14px !important;
+        margin-bottom: 0px !important;
+    }
+    .bgtransparent .card-subtitle {
+        font-size: 25px !important;
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px){ 
+ }
